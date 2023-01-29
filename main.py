@@ -3,7 +3,8 @@ to collect user data
 """
 
 import pygame as p
-from chess import chessengine
+import chessengine
+import ai
 
 WIDTH = HIGHT = 512
 #c = WIDTH
